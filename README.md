@@ -1,6 +1,6 @@
 # python-codes
-Contains programs made using python3.
-The programs present in this file are:
+**Contains programs made using python3.
+The programs present in this file are:**
  1) Mathoperations.py - Program which adds, subtracts, multiplies, divides given numbers
  2) age_in_seconds.py - Shows the persons current age is total number of seconds 
  3) alphabet_input.py - program to read alphabets except 'F','c','f','C'characters and print the characters
