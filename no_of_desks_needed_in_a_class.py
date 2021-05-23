@@ -1,3 +1,4 @@
+#The number of desks needed in a class room
 a = 20        #no.of students in class 1
 b = 21        #no.of students in class 2
 c = 22        #no.of students in class 3
