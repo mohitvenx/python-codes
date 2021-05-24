@@ -38,6 +38,7 @@ The programs present in this file are:**
  * separating_list.py - Separate a given list to sub lists with common features
  * shipping_cost_for_items.py - To find shipping cost for 60 copies where cost of shipping for first copy is 3rs and the rest is 75 paise
  * simpleinterest.py - Finding the simple interest
+ * simple_calculator - Basic calculator using GUI TKINTER
  * spherevolumeandarea.py - To find volume and surface area of a sphere
  * splitting_string_to_make_formal_letter.py - To convert a given string to a formal letter 
  * string_encoding.py - Example for string encoding
