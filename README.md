@@ -28,4 +28,25 @@ The programs present in this file are:**
 25) names.py - It takes the first and last name and prints them together  
 26) nestedif.py - nested if example program
 27) no_of_desks_needed_in_a_class.py - The number of desks needed in a class room
-28) 
+28) numnature.py - To check if number is positive or not
+29) nums_in_given_range.py - To print the natural numbers in given range
+30) one_to_ten_numbers.py - printing the first 10 numbers
+31) printingnextcharacter.py - Reading charecters and printing the next character
+32) radian_to_degree.py - To convert radians to degrees
+33) rounding_off.py - To round off and find absolute value of -4.3
+34) send_festivegreetings.py - Send festival greetings to friends all friends in the list using join 
+35) separating_list.py - Separate a given list to sub lists with common features
+36) shipping_cost_for_items.py - To find shipping cost for 60 copies where cost of shipping for first copy is 3rs and the rest is 75 paise
+37) simpleinterest.py - Finding the simple interest
+38) spherevolumeandarea.py - To find volume and surface area of a sphere
+39) splitting_string_to_make_formal_letter.py - To convert a given string to a formal letter 
+40) string_encoding.py - Example for string encoding
+41) string_operations(2).py - Example for string operations continued
+42) string_operations.py  - Example for string operations
+43) sum_of_inputs.py - To print the positive numbers provided by user and total no.of numbers entered
+44) sumofdigitsinanumber.py - To find the sum of digits of a 4 digit number
+45) swappingmemoryvalesoftwovariables.py - Swapping memoery of 2 variables
+46) swappingmemoryvalesusingmath.py - Swapping memoery of 2 variables(METHOD 2)
+47) swapusingxor.py -  Swapping values of 2 variables
+48) temperatureconversion.py - To convert from C to F and F to C
+49) 
